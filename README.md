@@ -3,7 +3,7 @@
   <a href="https://soumyajit.vercel.app/" target="_blank">Senthil Kumar</a>
 </h2>
 <div align="center">
-  <img alt="demo" src="./Images/readme.png" />
+  <img alt="demo" src="./Images/sample.png" />
 </div>
 
 <br/>
